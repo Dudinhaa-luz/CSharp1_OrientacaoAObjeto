@@ -1,0 +1,8 @@
+C:\Workspaces\ws-csharp\AprendendoCSharp\Ex-MultiplosDe3For\bin\Debug\Ex-MultiplosDe3For.exe.config
+C:\Workspaces\ws-csharp\AprendendoCSharp\Ex-MultiplosDe3For\bin\Debug\Ex-MultiplosDe3For.exe
+C:\Workspaces\ws-csharp\AprendendoCSharp\Ex-MultiplosDe3For\bin\Debug\Ex-MultiplosDe3For.pdb
+C:\Workspaces\ws-csharp\AprendendoCSharp\Ex-MultiplosDe3For\obj\Debug\Ex-MultiplosDe3For.csproj.AssemblyReference.cache
+C:\Workspaces\ws-csharp\AprendendoCSharp\Ex-MultiplosDe3For\obj\Debug\Ex-MultiplosDe3For.csproj.SuggestedBindingRedirects.cache
+C:\Workspaces\ws-csharp\AprendendoCSharp\Ex-MultiplosDe3For\obj\Debug\Ex-MultiplosDe3For.csproj.CoreCompileInputs.cache
+C:\Workspaces\ws-csharp\AprendendoCSharp\Ex-MultiplosDe3For\obj\Debug\Ex-MultiplosDe3For.exe
+C:\Workspaces\ws-csharp\AprendendoCSharp\Ex-MultiplosDe3For\obj\Debug\Ex-MultiplosDe3For.pdb
